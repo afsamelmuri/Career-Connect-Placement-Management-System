@@ -28,20 +28,6 @@ The Career Connect Platform is a centralized solution developed as part of an M.
 - 📁 **Resume Management:** Students can upload/update resumes linked to their profiles  
 - 📊 **Analytics:** Placement stats, eligible/placed student counts, downloadable reports  
 
-## 🧠 Modules & My Contribution (Backend Developer)
-
-As a **Backend Developer**, I was responsible for:
-
-- Designing and normalizing the **MySQL schema** with proper keys and relationships  
-- Developing REST APIs using **FastAPI** to handle:
-  - User login/signup and session management  
-  - Company visit CRUD operations  
-  - Dashboard data aggregation  
-  - Student eligibility filtering logic  
-- Securely connecting backend with frontend (React) using Axios  
-- Testing endpoints using Postman and Swagger  
-- Collaborating with frontend and middleware teams for seamless integration  
-
 ## 🧱 Database Tables
 
 - `institutes`: Institution details  
@@ -51,14 +37,6 @@ As a **Backend Developer**, I was responsible for:
 - `students`: Academic and contact details  
 - `users`: Login credentials, roles  
 - `skills_certifications`, `education_details`, `internships_projects`, `awards_achievements`: Supporting eligibility filtering  
-
-## 📷 Screenshots
-
-| Login Page | Dashboard | Company Visit Info |
-|------------|-----------|--------------------|
-| ![login](assets/img/screens/login.png) | ![dashboard](assets/img/screens/dashboard.png) | ![company-visit](assets/img/screens/company-visit.png) |
-
-> (Add your own screenshots here under `/assets/img/screens/`)
 
 ## ⚙️ Installation (Local Setup)
 
